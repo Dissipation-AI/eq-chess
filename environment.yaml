@@ -21,3 +21,5 @@ dependencies:
     - pytorch-lightning
     - wandb
     - python-chess
+    - einops
+    - torchmetrics
